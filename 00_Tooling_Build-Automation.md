@@ -13,9 +13,9 @@
    Automatisierung kann in jeder Phase des Softwareprozesses (`Entwicklung`, `Integration`, `QA`, `Betrieb`) implementiert werden.
 
    • **Feedback-Loop**: Ein Schritt in der Pipeline wird nur ausgeführt, wenn der vorherige erfolgreich war. Bei Fehlern wird der Prozess gestoppt und die Verantwortlichen sofort benachrichtigt.
-   ![[Pasted image 20260221102111.png]]
+   ![Pasted image 20260221102111.png](Pasted image 20260221102111.png)
    • **Konzepte*: Wichtige Begriffe in diesem Kontext sind `Continuous Integration (CI)`, `Continuous Delivery (CD)` und `DevOps`. Durch häufige kleine Updates wird das Risiko von Ausfällen und die Komplexität von Fehlerbehebungen reduziert.
-   ![[Pasted image 20260221101933.png]]
+   ![Pasted image 20260221101933.png](Pasted image 20260221101933.png)
 
 ### 3. Build-Automatisierung
 
