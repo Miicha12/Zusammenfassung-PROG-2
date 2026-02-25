@@ -27,7 +27,7 @@ Vergleich der `Java-Build-Tools`:
    • `ANT (+ IVY)`: `XML`-basiertes Skripting. Es ist sehr flexibel, hat aber keinen vordefinierten Lebenszyklus, was bei grossen Projekten schnell komplex wird.
    • `Maven`: Setzt auf ein deklaratives Modell `XML` mit einer festen Projektstruktur und einem Standard-Lebenszyklus. Es führte das `Dependency Management` und zentrale Repositories `Maven Central` ein.
    • `Gradle`: Kombiniert die Konzepte von `Maven` mit der Flexibilität von Skripting `Groovy oder Kotlin`. Es nutzt eine `Domain Specific Language (DSL)`, was die Build-Files kürzer und lesbarer macht.
-![image_3](Image_3.png)
+   ![image_3](Image_3.png)
 
 ### 4. Fokus Gradle
 
